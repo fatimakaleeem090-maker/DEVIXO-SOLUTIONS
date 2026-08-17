@@ -85,3 +85,51 @@ DEVIXO SOLUTIONS/
  script.js
  README.md
 screenshots/
+
+
+
+
+
+
+
+
+<img width="1545" height="744" alt="image" src="https://github.com/user-attachments/assets/11612abc-3d11-45b8-ab25-8e11cc568117" />
+
+
+
+<img width="1426" height="735" alt="image" src="https://github.com/user-attachments/assets/ac397363-19a2-4432-aab4-20b6736084d6" />
+
+
+
+<img width="1569" height="758" alt="image" src="https://github.com/user-attachments/assets/34f6d35d-e93a-413c-acf8-5d40fad9cced" />
+
+
+<img width="1476" height="722" alt="image" src="https://github.com/user-attachments/assets/0cb66bf5-4ccd-495f-9ea4-96c0514ccfce" />
+
+
+<img width="1389" height="462" alt="image" src="https://github.com/user-attachments/assets/0e82cfc3-eecf-4266-9039-b30fc2b73c7c" />
+
+<img width="1476" height="755" alt="image" src="https://github.com/user-attachments/assets/9bb3dfbc-a107-40a7-976e-8f40185f6589" />
+<img width="1317" height="114" alt="image" src="https://github.com/user-attachments/assets/81a903af-c09a-4863-81e2-75e47f9839d9" />
+
+
+<img width="1331" height="746" alt="image" src="https://github.com/user-attachments/assets/7f8fd8d4-213d-4166-80e5-b0be230c1955" />
+
+
+
+<img width="1224" height="658" alt="image" src="https://github.com/user-attachments/assets/8b8c6f59-fec8-4f14-8403-1f16fde2f056" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
